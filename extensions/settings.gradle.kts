@@ -30,5 +30,4 @@ gradleEnterprise {
         termsOfServiceAgree = "yes"
     }
 }
-
-
+include("NPCModelExtension")
